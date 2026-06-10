@@ -295,6 +295,7 @@ footer {
   transition: border-color 0.2s;
   max-width: 760px;
   margin: 0 auto;
+  min-height: 89px;
 }
 
 .input-wrapper:focus-within{
